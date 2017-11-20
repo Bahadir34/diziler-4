@@ -4,9 +4,9 @@
 int main(int argc, char** argv) {
 
     /*
-    char isim[7]="hanzala";
-    char isim1[]="hanzala;";
-    char *isim2 ="hanzala";
+    char isim[7]="deneme";
+    char isim1[]="deneme;";
+    char *isim2 ="deneme";
     char isim3[]= {'h','a','n','z','a','l','a','\0'};
     printf("%s",isim1);
     */
