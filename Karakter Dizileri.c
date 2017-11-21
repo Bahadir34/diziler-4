@@ -9,7 +9,7 @@ int main(int argc, char** argv) {
     char *isim2 ="deneme";
     char isim3[]= {'h','a','n','z','a','l','a','\0'};
     printf("%s",isim1);
-    proje lazım.
+    nabion.
     */
      int a=0,b=0,i=0;
      char sube['e'][2];
